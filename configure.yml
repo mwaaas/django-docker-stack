@@ -1,0 +1,11 @@
+---
+- hosts: localhost
+  roles:
+    - role: common
+      tags:
+        - common
+    - { role: app_server, tags: [ django ] }
+    - role: splunk-forwarder
+      sudo_user: splunk
+      when: APP_ENVIRONMENT != 'development'
+      tags: [ splunk ]
