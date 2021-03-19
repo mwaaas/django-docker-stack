@@ -31,7 +31,7 @@ flower==0.7.3
 gunicorn==19.2.1
 html5lib==0.999
 httplib2==0.8
-Jinja2==2.7.2
+Jinja2==2.11.3
 jsonfield==1.0.3
 kombu==3.0.24
 lxml==3.4.2
