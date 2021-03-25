@@ -50,7 +50,7 @@ pysftp==0.2.8
 python-apt===0.9.3.5ubuntu1
 python-dateutil==2.4.0
 pytz==2014.10
-PyYAML==3.10
+PyYAML==5.4
 raven==5.2.0
 requests==2.2.1
 rollbar==0.9.6
