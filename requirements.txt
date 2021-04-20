@@ -61,6 +61,6 @@ structlog==15.0.0
 supervisor==3.0b2
 tornado==4.1
 urllib3==1.7.1
-Werkzeug==0.10.1
+Werkzeug==0.15.3
 whitenoise==1.0.6
 xmlbuilder==1.0
