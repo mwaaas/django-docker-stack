@@ -34,7 +34,7 @@ httplib2==0.8
 Jinja2==2.7.2
 jsonfield==1.0.3
 kombu==3.0.24
-lxml==3.4.2
+lxml==4.9.1
 MarkupSafe==0.18
 meld3==0.6.10
 mercurial==2.8.2
