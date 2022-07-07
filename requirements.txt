@@ -52,7 +52,7 @@ python-dateutil==2.4.0
 pytz==2014.10
 PyYAML==3.10
 raven==5.2.0
-requests==2.2.1
+requests==2.20.0
 rollbar==0.9.6
 shortuuid==0.4.2
 six==1.5.2
